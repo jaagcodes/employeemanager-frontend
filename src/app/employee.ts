@@ -6,4 +6,7 @@ export interface Employee{
     phone: string;
     imageUrl: string;
     employeeCode: string;
+    yearsOfExperience: number;
+    seniority: string;
+    anualSalary: number;
 }
